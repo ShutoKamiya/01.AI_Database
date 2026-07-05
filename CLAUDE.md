@@ -1,3 +1,5 @@
+@AGENTS.md
+
 # Claude Code Instructions
 
 このVaultで作業するときは、最初に `AGENTS.md` を読み、その運用規約に従うこと。
