@@ -1,0 +1,16 @@
+.git/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+.claude/projects/
+90_Archive/Raw_Logs/
+90_Archive/Old_ChatGPT_Exports/
+**/*.pdf
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.mp4
+**/*.zip
+*.log
+*.tmp
